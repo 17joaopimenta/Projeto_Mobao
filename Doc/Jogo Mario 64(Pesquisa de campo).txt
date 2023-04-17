@@ -1,0 +1,21 @@
+- Jogo: Mario 64
+
+- Desafios Encontrados: Inimigos (Por exemplo os goombas), certos obstáculos no meio da fase
+
+- Solução desses desafios: Você pode pular nos inimigos ou dar um soco neles apertando B, tem inimigos (como os bob-ombs) que o único jeito de derrotálos é sair correndo ou agarrando-os e atirando-os para longe. No caso da trilha de obstáculos o jogador poderá pegar um atalho
+
+- Como jogador avança no jogo: Coletando estrelas, chaves do jogo
+
+- Como o jogo fica mais difícil: Ele acaba adicionado alguns elementos da fase que atrapalha o caminhar do personagem, como por exemplo na fase de gelo onde o mario, além dele ter dificuldade de correr pelo gelo, ele também pode acabar se deparando com uma rampa que faz ele escorregar
+
+- Como avançar na história: O jogador vai ter um caminho determinado a seguir e no final para ele conseguir a estrela ele precissa ou derrotar o boss ou fazendo a missão do jogo, Ele usa essa estrela para ir à próxima fase
+
+- Elemento(s) Motivacional(is): Coleta de moedas (Amarelas, Vermelhas), e um bloco com um sinal de exclamação que serve como um tesouro aleatório
+
+- Função da coleta de recompensas: Dar mais vida ao jogador e dar um 1-up (Amarelas), Completar a vida do player.
+
+- Como a gameplay se conecta com a história: A história do jogo, apesar de ser simples, ela é apropriada para um público mais jovem, que é seu foco, por isso a gameplay mostra sua simplicidade, onde você consegue controlar o mário livremente
+
+- Condição de vitória: Você ganha a estrela que pode permitir você ir para próxima fase, fazendo você sentir orgulho de sua conquista.
+
+- Condição de derrota: Caso você esvazie sua barra de vida, ou caia muito de buracos, você sai so mundo que você estava e volta para o loby principal (castelo da princesa peach), e caso você repita isso você é punido com a tela de game over
